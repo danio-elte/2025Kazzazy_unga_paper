@@ -1,0 +1,25 @@
+﻿Color,Position,Gene Name,Sample Name,Condition Name,Cq,Cq Mean,Cq Error,Excluded,Sample Type,Sample Type RQ,Gene Type,Condition Type,Replicate Group,Ratio,Ratio Error,Normalized Ratio,Normalized Ratio Error,Scaled Ratio,Scaled Ratio Error,Dye,Edited Call,Failure,Slope,EPF,Notes,Sample Prep Notes,Number
+,A1,lsm12b,wt1,,26.67,26.67,0,Unchecked,Standard,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,None,0.79,3.49,,,1
+,A2,lsm12b,wt2,,26.67,26.67,0,Unchecked,Standard,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,None,0.9,3.75,,,2
+,A3,lsm12b,wt3,,27.77,27.77,0,Unchecked,Standard,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,None,0.79,3.46,,,3
+,A4,lsm12b,unga 1,,24.34,24.34,0,Unchecked,Standard,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,None,0.9,3.86,,,4
+,A5,lsm12b,unga2,,23.44,23.44,0,Unchecked,Standard,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,None,0.69,3.34,,,5
+,A6,lsm12b,unga3,,24.96,24.96,0,Unchecked,Standard,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,None,0.67,3.22,,,6
+,A7,ef1a,wt1,,21.91,21.91,0,Unchecked,Standard,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,None,0.76,3.55,,,7
+,A8,ef1a,wt2,,21.93,21.93,0,Unchecked,Standard,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,None,0.74,3.48,,,8
+,A9,ef1a,wt3,,21.78,21.78,0,Unchecked,Standard,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,None,0.61,3.07,,,9
+,A10,ef1a,unga 1,,17.82,17.82,0,Unchecked,Standard,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,None,0.63,3.09,,,10
+,A11,ef1a,unga2,,16.15,16.15,0,Unchecked,Standard,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,None,0.61,2.98,,,11
+,A12,ef1a,unga3,,17.97,17.97,0,Unchecked,Standard,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,None,0.61,3,,,12
+,B1,unga,wt1,,22.16,22.16,0,Unchecked,Unknown,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,No ratio because no reference gene defined,0.73,2.91,,,13
+,B2,unga,wt2,,22.49,22.49,0,Unchecked,Unknown,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,No ratio because no reference gene defined,0.76,2.99,,,14
+,B3,unga,wt3,,26.73,26.73,0,Unchecked,Unknown,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,No ratio because no reference gene defined,0.6,2.34,,,15
+,B7,unga,unga 1,,23.93,23.93,0,Unchecked,Unknown,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,No ratio because no reference gene defined,0.74,3,,,19
+,B8,unga,unga2,,26.76,26.76,0,Unchecked,Unknown,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,No ratio because no reference gene defined,0.85,3.43,,,20
+,B9,unga,unga3,,26.65,26.65,0,Unchecked,Unknown,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,No ratio because no reference gene defined,0.74,2.95,,,21
+,C1,lsm12b,None,,-,-,-,Unchecked,Negative control,Unknown,Target,Unknown,C1,-,-,-,-,-,-,SYBR Green I,Unchecked,None,0,0,,,25
+,C2,lsm12b,None,,-,-,-,Unchecked,Negative control,Unknown,Target,Unknown,C1,-,-,-,-,-,-,SYBR Green I,Unchecked,None,0,0.03,,,26
+,C3,ef1a,None,,36.38,36.38,0,Unchecked,Negative control,Unknown,Target,Unknown,C3,-,-,-,-,-,-,SYBR Green I,Unchecked,"Neg Ctrl is positive, Replicate group contains positives and negatives.",0.79,2.88,,,27
+,C4,ef1a,None,,-,-,-,Unchecked,Negative control,Unknown,Target,Unknown,C3,-,-,-,-,-,-,SYBR Green I,Unchecked,Replicate group contains positives and negatives.,0,0.03,,,28
+,C5,unga,None,,28.87,28.87,0,Unchecked,Negative control,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,Neg Ctrl is positive,0.87,3.39,,,29
+,C6,unga,None,,28.3,28.3,0,Unchecked,Negative control,Unknown,Target,Unknown,,-,-,-,-,-,-,SYBR Green I,Unchecked,Neg Ctrl is positive,0.86,3.34,,,30

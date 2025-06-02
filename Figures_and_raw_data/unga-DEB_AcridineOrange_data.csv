@@ -1,0 +1,211 @@
+Slice,Genotype,Treatment,Count,Total Area,Average Size,%Area,Mean,Min_size
+1-WT.tif,wt,cntrl,188,3401,18.09,0.391,31.339,0
+1-WT.tif,wt,cntrl,113,3279,29.018,0.377,36.076,4
+1-WT.tif,wt,cntrl,77,3072,39.896,0.353,39.731,9
+1-WT.tif,wt,cntrl,52,2788,53.615,0.321,43.79,16
+1-WT.tif,wt,cntrl,37,2496,67.459,0.287,48.303,25
+1-WT.tif,wt,cntrl,27,2179,80.704,0.251,51.909,36
+1-WT.tif,wt,cntrl,15,1679,111.933,0.193,54.314,49
+1-WT.tif,wt,cntrl,12,1503,125.25,0.173,54.358,64
+1-WT.tif,wt,cntrl,10,1368,136.8,0.157,55.126,81
+1-WT.tif,wt,cntrl,5,936,187.2,0.108,54.335,100
+UNGA UNT H.png,unga,cntrl,173,1264,7.306,1.278,15.517,0
+UNGA UNT H.png,unga,cntrl,81,1119,13.815,1.131,18.885,4
+UNGA UNT H.png,unga,cntrl,33,844,25.576,0.853,21.993,9
+UNGA UNT H.png,unga,cntrl,10,592,59.2,0.598,21.241,16
+UNGA UNT H.png,unga,cntrl,4,477,119.25,0.482,21.384,25
+UNGA UNT H.png,unga,cntrl,3,452,150.667,0.457,22.471,36
+UNGA UNT H.png,unga,cntrl,3,452,150.667,0.457,22.471,49
+UNGA UNT H.png,unga,cntrl,2,401,200.5,0.405,23.903,64
+UNGA UNT H.png,unga,cntrl,2,401,200.5,0.405,23.903,81
+UNGA UNT H.png,unga,cntrl,2,401,200.5,0.405,23.903,100
+20240508-untr-unga-DEB-0.tif,unga,cntrl,180,4185,23.25,0.512,37.84,0
+20240508-untr-unga-DEB-0.tif,unga,cntrl,116,4087,35.233,0.5,42.079,4
+20240508-untr-unga-DEB-0.tif,unga,cntrl,88,3926,44.614,0.48,44.796,9
+20240508-untr-unga-DEB-0.tif,unga,cntrl,68,3686,54.206,0.451,47.393,16
+20240508-untr-unga-DEB-0.tif,unga,cntrl,53,3386,63.887,0.414,50.365,25
+20240508-untr-unga-DEB-0.tif,unga,cntrl,42,3061,72.881,0.374,52.214,36
+20240508-untr-unga-DEB-0.tif,unga,cntrl,30,2549,84.967,0.312,53.829,49
+20240508-untr-unga-DEB-0.tif,unga,cntrl,22,2098,95.364,0.257,56.522,64
+20240508-untr-unga-DEB-0.tif,unga,cntrl,16,1682,105.125,0.206,57.448,81
+20240508-untr-unga-DEB-0.tif,unga,cntrl,9,1067,118.556,0.131,59.366,100
+untreated unga 2.tiff,unga,cntrl,274,7616,27.796,0.888,47.187,0
+untreated unga 2.tiff,unga,cntrl,179,7464,41.698,0.871,52.276,4
+untreated unga 2.tiff,unga,cntrl,137,7229,52.766,0.843,55.031,9
+untreated unga 2.tiff,unga,cntrl,102,6825,66.912,0.796,57.063,16
+untreated unga 2.tiff,unga,cntrl,79,6366,80.582,0.742,59.845,25
+untreated unga 2.tiff,unga,cntrl,64,5917,92.453,0.69,61.15,36
+untreated unga 2.tiff,unga,cntrl,55,5537,100.673,0.646,62.182,49
+untreated unga 2.tiff,unga,cntrl,41,4754,115.951,0.554,64.679,64
+untreated unga 2.tiff,unga,cntrl,27,3760,139.259,0.439,68.817,81
+untreated unga 2.tiff,unga,cntrl,19,3041,160.053,0.355,68.946,100
+untreated unga 6.tiff,unga,cntrl,146,2604,17.836,0.37,35.705,0
+untreated unga 6.tiff,unga,cntrl,100,2527,25.27,0.359,38.959,4
+untreated unga 6.tiff,unga,cntrl,62,2311,37.274,0.328,42.371,9
+untreated unga 6.tiff,unga,cntrl,45,2093,46.511,0.297,43.919,16
+untreated unga 6.tiff,unga,cntrl,32,1845,57.656,0.262,47.036,25
+untreated unga 6.tiff,unga,cntrl,28,1731,61.821,0.246,47.885,36
+untreated unga 6.tiff,unga,cntrl,18,1307,72.611,0.186,50.693,49
+untreated unga 6.tiff,unga,cntrl,11,904,82.182,0.128,51.661,64
+untreated unga 6.tiff,unga,cntrl,5,478,95.6,0.068,52.525,81
+untreated unga 6.tiff,unga,cntrl,1,131,131,0.019,58.718,100
+untreated unga 5.tiff,unga,cntrl,188,6462,34.372,0.652,32.862,0
+untreated unga 5.tiff,unga,cntrl,131,6380,48.702,0.644,36.485,4
+untreated unga 5.tiff,unga,cntrl,93,6168,66.323,0.622,40.165,9
+untreated unga 5.tiff,unga,cntrl,70,5880,84,0.593,42.356,16
+untreated unga 5.tiff,unga,cntrl,60,5688,94.8,0.574,43.937,25
+untreated unga 5.tiff,unga,cntrl,49,5356,109.306,0.54,45.807,36
+untreated unga 5.tiff,unga,cntrl,43,5103,118.674,0.515,47.363,49
+untreated unga 5.tiff,unga,cntrl,34,4574,134.529,0.461,49.461,64
+untreated unga 5.tiff,unga,cntrl,24,3864,161,0.39,53.473,81
+untreated unga 5.tiff,unga,cntrl,14,2962,211.571,0.299,56.582,100
+untreated wt 4.tiff,wt,cntrl,202,4078,20.188,0.459,29.987,0
+untreated wt 4.tiff,wt,cntrl,141,3971,28.163,0.447,32.287,4
+untreated wt 4.tiff,wt,cntrl,96,3719,38.74,0.418,34.582,9
+untreated wt 4.tiff,wt,cntrl,62,3349,54.016,0.377,37.238,16
+untreated wt 4.tiff,wt,cntrl,44,2983,67.795,0.335,39.048,25
+untreated wt 4.tiff,wt,cntrl,29,2529,87.207,0.284,41.691,36
+untreated wt 4.tiff,wt,cntrl,18,2092,116.222,0.235,44.014,49
+untreated wt 4.tiff,wt,cntrl,13,1797,138.231,0.202,47.105,64
+untreated wt 4.tiff,wt,cntrl,9,1520,168.889,0.171,49.185,81
+untreated wt 4.tiff,wt,cntrl,7,1334,190.571,0.15,53.653,100
+13-Het.tif,wt,cntrl,172,3249,18.89,0.33,47.731,0
+13-Het.tif,wt,cntrl,95,3112,32.758,0.316,55.741,4
+13-Het.tif,wt,cntrl,67,2957,44.134,0.3,60.685,9
+13-Het.tif,wt,cntrl,49,2765,56.429,0.28,66.31,16
+13-Het.tif,wt,cntrl,35,2490,71.143,0.253,71.299,25
+13-Het.tif,wt,cntrl,28,2281,81.464,0.231,75.655,36
+13-Het.tif,wt,cntrl,20,1957,97.85,0.198,77.603,49
+13-Het.tif,wt,cntrl,16,1751,109.438,0.178,77.453,64
+13-Het.tif,wt,cntrl,10,1327,132.7,0.135,77.11,81
+13-Het.tif,wt,cntrl,6,982,163.667,0.1,75.739,100
+1-WT.tif,wt,cntrl,181,3714,20.519,0.357,33.077,0
+1-WT.tif,wt,cntrl,116,3600,31.034,0.346,37.616,4
+1-WT.tif,wt,cntrl,79,3385,42.848,0.326,41.892,9
+1-WT.tif,wt,cntrl,54,3104,57.481,0.299,46.253,16
+1-WT.tif,wt,cntrl,41,2854,69.61,0.275,49.677,25
+1-WT.tif,wt,cntrl,27,2432,90.074,0.234,54.635,36
+1-WT.tif,wt,cntrl,16,1970,123.125,0.19,58.113,49
+1-WT.tif,wt,cntrl,12,1741,145.083,0.167,58.749,64
+1-WT.tif,wt,cntrl,9,1515,168.333,0.146,57.14,81
+1-WT.tif,wt,cntrl,6,1249,208.167,0.12,60.908,100
+untreated wt 1 R.tiff,wt,cntrl,122,1712,14.033,0.223,29.026,0
+untreated wt 1 R.tiff,wt,cntrl,64,1625,25.391,0.211,33.679,4
+untreated wt 1 R.tiff,wt,cntrl,40,1482,37.05,0.193,36.12,9
+untreated wt 1 R.tiff,wt,cntrl,26,1344,51.692,0.175,38.172,16
+untreated wt 1 R.tiff,wt,cntrl,17,1167,68.647,0.152,40.567,25
+untreated wt 1 R.tiff,wt,cntrl,15,1101,73.4,0.143,42.452,36
+untreated wt 1 R.tiff,wt,cntrl,12,970,80.833,0.126,44.149,49
+untreated wt 1 R.tiff,wt,cntrl,8,758,94.75,0.099,48.134,64
+untreated wt 1 R.tiff,wt,cntrl,5,532,106.4,0.069,55.23,81
+untreated wt 1 R.tiff,wt,cntrl,3,343,114.333,0.045,53.991,100
+wt DEB treated 6hpf stage.tiff,wt,DEB,141,4897,34.73,0.678,39.69,0
+wt DEB treated 6hpf stage.tiff,wt,DEB,109,4845,44.45,0.671,42.752,4
+wt DEB treated 6hpf stage.tiff,wt,DEB,85,4716,55.482,0.653,45.916,9
+wt DEB treated 6hpf stage.tiff,wt,DEB,61,4445,72.869,0.615,50.439,16
+wt DEB treated 6hpf stage.tiff,wt,DEB,37,3981,107.595,0.551,55.056,25
+wt DEB treated 6hpf stage.tiff,wt,DEB,26,3650,140.385,0.505,59.865,36
+wt DEB treated 6hpf stage.tiff,wt,DEB,24,3569,148.708,0.494,60.507,49
+wt DEB treated 6hpf stage.tiff,wt,DEB,17,3176,186.824,0.44,60.757,64
+wt DEB treated 6hpf stage.tiff,wt,DEB,12,2813,234.417,0.389,61.674,81
+wt DEB treated 6hpf stage.tiff,wt,DEB,10,2637,263.7,0.365,61.287,100
+wt DEB treated 6hpf stage.tiff,wt,DEB,382,9394,24.592,1.159,43.472,0
+wt DEB treated 6hpf stage.tiff,wt,DEB,270,9192,34.044,1.134,48.177,4
+wt DEB treated 6hpf stage.tiff,wt,DEB,188,8733,46.452,1.077,53.315,9
+wt DEB treated 6hpf stage.tiff,wt,DEB,135,8110,60.074,1.001,58.197,16
+wt DEB treated 6hpf stage.tiff,wt,DEB,98,7407,75.582,0.914,62.906,25
+wt DEB treated 6hpf stage.tiff,wt,DEB,60,6287,104.783,0.776,65.558,36
+wt DEB treated 6hpf stage.tiff,wt,DEB,43,5596,130.14,0.69,70.048,49
+wt DEB treated 6hpf stage.tiff,wt,DEB,32,5004,156.375,0.617,71.941,64
+wt DEB treated 6hpf stage.tiff,wt,DEB,24,4454,185.583,0.549,75.083,81
+wt DEB treated 6hpf stage.tiff,wt,DEB,17,3830,225.294,0.473,73.151,100
+wt DEB treated 6hpf.tiff,wt,DEB,202,6759,33.46,0.789,45.537,0
+wt DEB treated 6hpf.tiff,wt,DEB,142,6657,46.88,0.777,50.665,4
+wt DEB treated 6hpf.tiff,wt,DEB,110,6465,58.773,0.755,53.946,9
+wt DEB treated 6hpf.tiff,wt,DEB,79,6094,77.139,0.711,59.149,16
+wt DEB treated 6hpf.tiff,wt,DEB,61,5746,94.197,0.671,62.449,25
+wt DEB treated 6hpf.tiff,wt,DEB,46,5288,114.957,0.617,63.359,36
+wt DEB treated 6hpf.tiff,wt,DEB,32,4691,146.594,0.548,66.787,49
+wt DEB treated 6hpf.tiff,wt,DEB,26,4379,168.423,0.511,69.119,64
+wt DEB treated 6hpf.tiff,wt,DEB,20,3953,197.65,0.462,69.257,81
+wt DEB treated 6hpf.tiff,wt,DEB,15,3520,234.667,0.411,73.882,100
+unga DEB treated 6hpf stage  .tiff,unga,DEB,475,11816,24.876,1.295,44.245,0
+unga DEB treated 6hpf stage  .tiff,unga,DEB,337,11594,34.404,1.27,49.712,4
+unga DEB treated 6hpf stage  .tiff,unga,DEB,252,11113,44.099,1.218,53.913,9
+unga DEB treated 6hpf stage  .tiff,unga,DEB,201,10512,52.299,1.152,56.795,16
+unga DEB treated 6hpf stage  .tiff,unga,DEB,148,9452,63.865,1.036,59.514,25
+unga DEB treated 6hpf stage  .tiff,unga,DEB,107,8250,77.103,0.904,62.532,36
+unga DEB treated 6hpf stage  .tiff,unga,DEB,76,6959,91.566,0.763,64.64,49
+unga DEB treated 6hpf stage  .tiff,unga,DEB,55,5797,105.4,0.635,67.858,64
+unga DEB treated 6hpf stage  .tiff,unga,DEB,39,4643,119.051,0.509,68.927,81
+unga DEB treated 6hpf stage  .tiff,unga,DEB,23,3157,137.261,0.346,69.085,100
+unga DEB 4.tiff,unga,DEB,762,25281,33.177,2.928,56.233,0
+unga DEB 4.tiff,unga,DEB,476,24851,52.208,2.878,61.72,4
+unga DEB 4.tiff,unga,DEB,355,24150,68.028,2.797,65.465,9
+unga DEB 4.tiff,unga,DEB,276,23258,84.268,2.693,69.301,16
+unga DEB 4.tiff,unga,DEB,217,22103,101.857,2.56,72.02,25
+unga DEB 4.tiff,unga,DEB,169,20666,122.284,2.393,74.207,36
+unga DEB 4.tiff,unga,DEB,133,19179,144.203,2.221,75.885,49
+unga DEB 4.tiff,unga,DEB,102,17469,171.265,2.023,77.713,64
+unga DEB 4.tiff,unga,DEB,80,15867,198.338,1.837,80.053,81
+unga DEB 4.tiff,unga,DEB,72,15158,210.528,1.755,80.894,100
+unga DEB 3.tiff,unga,DEB,386,14916,38.642,2.294,36.35,0
+unga DEB 3.tiff,unga,DEB,295,14765,50.051,2.27,38.267,4
+unga DEB 3.tiff,unga,DEB,229,14399,62.878,2.214,40.495,9
+unga DEB 3.tiff,unga,DEB,187,13912,74.396,2.139,42.432,16
+unga DEB 3.tiff,unga,DEB,136,12897,94.831,1.983,45.13,25
+unga DEB 3.tiff,unga,DEB,106,12001,113.217,1.845,46.551,36
+unga DEB 3.tiff,unga,DEB,79,10896,137.924,1.675,47.921,49
+unga DEB 3.tiff,unga,DEB,63,10024,159.111,1.541,49.642,64
+unga DEB 3.tiff,unga,DEB,49,9038,184.449,1.39,49.48,81
+unga DEB 3.tiff,unga,DEB,42,8411,200.262,1.293,50.032,100
+unga DEB 2.tiff,unga,DEB,653,26535,40.636,3.113,40.191,0
+unga DEB 2.tiff,unga,DEB,447,26185,58.579,3.072,42.775,4
+unga DEB 2.tiff,unga,DEB,325,25484,78.412,2.989,46.25,9
+unga DEB 2.tiff,unga,DEB,238,24491,102.903,2.873,49.549,16
+unga DEB 2.tiff,unga,DEB,186,23442,126.032,2.75,51.807,25
+unga DEB 2.tiff,unga,DEB,149,22350,150,2.622,53.502,36
+unga DEB 2.tiff,unga,DEB,117,21028,179.726,2.467,55.671,49
+unga DEB 2.tiff,unga,DEB,93,19685,211.667,2.309,56.853,64
+unga DEB 2.tiff,unga,DEB,81,18815,232.284,2.207,58.233,81
+unga DEB 2.tiff,unga,DEB,68,17646,259.5,2.07,60.28,100
+unga DEB 1.tiff,unga,DEB,746,28045,37.594,3.456,50.481,0
+unga DEB 1.tiff,unga,DEB,555,27701,49.912,3.414,54.289,4
+unga DEB 1.tiff,unga,DEB,402,26844,66.776,3.308,59.029,9
+unga DEB 1.tiff,unga,DEB,303,25683,84.762,3.165,62.982,16
+unga DEB 1.tiff,unga,DEB,249,24662,99.044,3.039,65.168,25
+unga DEB 1.tiff,unga,DEB,181,22677,125.287,2.795,67.849,36
+unga DEB 1.tiff,unga,DEB,145,21187,146.117,2.611,69.254,49
+unga DEB 1.tiff,unga,DEB,112,19339,172.67,2.383,70.784,64
+unga DEB 1.tiff,unga,DEB,95,18138,190.926,2.235,71.124,81
+unga DEB 1.tiff,unga,DEB,70,15910,227.286,1.961,71.574,100
+AB DEB 3.tiff,wt,DEB,309,16976,54.939,1.747,35.48,0
+AB DEB 3.tiff,wt,DEB,186,16794,90.29,1.728,42.035,4
+AB DEB 3.tiff,wt,DEB,152,16612,109.289,1.709,44.896,9
+AB DEB 3.tiff,wt,DEB,135,16429,121.696,1.69,46.479,16
+AB DEB 3.tiff,wt,DEB,128,16306,127.391,1.678,47.316,25
+AB DEB 3.tiff,wt,DEB,119,16035,134.748,1.65,48.041,36
+AB DEB 3.tiff,wt,DEB,111,15712,141.55,1.617,48.633,49
+AB DEB 3.tiff,wt,DEB,98,15001,153.071,1.543,50.028,64
+AB DEB 3.tiff,wt,DEB,90,14420,160.222,1.484,50.993,81
+AB DEB 3.tiff,wt,DEB,74,12951,175.014,1.332,52.608,100
+AB DEB 2.tiff,wt,DEB,170,2996,17.624,0.319,39.018,0
+AB DEB 2.tiff,wt,DEB,91,2875,31.593,0.307,43.026,4
+AB DEB 2.tiff,wt,DEB,66,2728,41.333,0.291,45.983,9
+AB DEB 2.tiff,wt,DEB,49,2539,51.816,0.271,50.014,16
+AB DEB 2.tiff,wt,DEB,34,2248,66.118,0.24,53.289,25
+AB DEB 2.tiff,wt,DEB,24,1966,81.917,0.21,57.998,36
+AB DEB 2.tiff,wt,DEB,18,1700,94.444,0.181,58.632,49
+AB DEB 2.tiff,wt,DEB,12,1391,115.917,0.148,63.165,64
+AB DEB 2.tiff,wt,DEB,6,961,160.167,0.102,68.947,81
+AB DEB 2.tiff,wt,DEB,5,879,175.8,0.094,68.766,100
+AB DEB 1.tiff,wt,DEB,286,4409,15.416,0.54,50.146,0
+AB DEB 1.tiff,wt,DEB,125,4184,33.472,0.512,57.176,4
+AB DEB 1.tiff,wt,DEB,84,3952,47.048,0.484,60.12,9
+AB DEB 1.tiff,wt,DEB,57,3618,63.474,0.443,66.007,16
+AB DEB 1.tiff,wt,DEB,45,3380,75.111,0.414,69.819,25
+AB DEB 1.tiff,wt,DEB,32,2991,93.469,0.366,70.846,36
+AB DEB 1.tiff,wt,DEB,20,2504,125.2,0.307,74.312,49
+AB DEB 1.tiff,wt,DEB,15,2221,148.067,0.272,77.248,64
+AB DEB 1.tiff,wt,DEB,10,1857,185.7,0.227,77.647,81
+AB DEB 1.tiff,wt,DEB,6,1478,246.333,0.181,81.254,100
